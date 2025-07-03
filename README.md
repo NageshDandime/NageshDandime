@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">👋 Hi, I'm Nagesh - Aspiring Data Scientist</h1>
 
@@ -17,12 +16,11 @@
 
 ###
 
- 
-<img align="right" alt="Coder GIF" height=150 width=200 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+
 
 ###
 
-<div align="left">
+<div align="center">
   <!-- Core Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
@@ -43,7 +41,17 @@
 
 ###
 
-<div align="left">
+
+
+
+<div align="center">
+  <img alt="Data Visualization GIF" height="180" width="500" src=https://cdn.hashnode.com/res/hashnode/image/upload/v1648252393758/XVRoK-7Bi.gif?auto=format,compress&gif-q=60&format=webm />
+</div>
+
+
+
+###
+<div align="center">
   <a href=https://www.linkedin.com/in/nagesh-dandime target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -54,10 +62,8 @@
     <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kaggle logo"  />
   </a>
 </div>
-
 ###
-
 <br clear="both">
-
-
+<div align='center'> 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
